@@ -2,6 +2,9 @@
   "name": "ai-brief-backend",
   "private": true,
   "dependencies": {
-    "zod": "^3.23.8"
+    "zod": "^3.23.8",
+    "puppeteer-core": "^23.7.0",
+    "@sparticuz/chromium": "^133.0.0",
+    "resend": "^4.0.0"
   }
 }
